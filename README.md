@@ -6,10 +6,6 @@
 
 ---
 
-## 🚀 Game Overview
-
-*Add a screenshot or an animated GIF of your game in action here!*
-<!-- ![Game Screenshot](path/to/screenshot.png) -->
 
 ### ✨ Features
 - **Classic Gameplay**: Simple "Tap to Fly" mechanics.
