@@ -2,7 +2,7 @@
 
 ![Version](https://shields.io)
 
-**FlappyPlane** is an arcade game inspired by the famous Flappy Bird, developed with [YOUR LANGUAGE/FRAMEWORK]. Take control of a plane and navigate through increasingly difficult obstacles!
+**FlappyPlane** is an arcade game inspired by the famous Flappy Bird, developed with [Python]. Take control of a plane and navigate through increasingly difficult obstacles!
 
 ---
 
